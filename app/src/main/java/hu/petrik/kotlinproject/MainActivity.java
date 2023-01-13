@@ -8,7 +8,7 @@ import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity {
 
-    Button javaGomb;
+    private Button javaGomb;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
